@@ -1,2 +1,4 @@
-**/.DS_Store/**
-./smartcontract/.vscode/**
+.DS_Store/
+iot/.DS_Store/
+smartcontract/.DS_Store/
+
