@@ -1,4 +1,4 @@
-.DS_Store/
-iot/.DS_Store/
-smartcontract/.DS_Store/
+.DS_Store/*
+iot/.DS_Store/*
+smartcontract/.DS_Store/*
 
