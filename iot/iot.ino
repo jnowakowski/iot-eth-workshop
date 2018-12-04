@@ -3,7 +3,7 @@
 #include <Contract.h>
 
 #define ENV_SSID     "Krakow"
-#define ENV_WIFI_KEY "8.warszawa.8"
+#define ENV_WIFI_KEY "blockchain"
 
 const string CONTRACT_ADDRESS = "0xe89e1c7397e8b980fc4157d85a128d00499d9a43";
 const char* ACCOUNT_ADDRESS = "0x5d02e39dc48bcff087b9f2daf846eac970177116";
