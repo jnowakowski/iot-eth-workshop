@@ -5,10 +5,10 @@
 #define ENV_SSID     "Krakow"
 #define ENV_WIFI_KEY "8.warszawa.8"
 
-const string CONTRACT_ADDRESS = "0xdeb1331a4b43839ad427d81ebee5ce915171e925";
-const char* ACCOUNT_ADDRESS = "0xdce18b3f54c1ef557d48b98d3521aeda35ccc848";
+const string CONTRACT_ADDRESS = "0xe89e1c7397e8b980fc4157d85a128d00499d9a43";
+const char* ACCOUNT_ADDRESS = "0x5d02e39dc48bcff087b9f2daf846eac970177116";
 const string INFURA_HOST = "ropsten.infura.io";
-const string INFURA_PATH = "/YOUR_PATH";
+const string INFURA_PATH = "/v3/220e206b159d4eb4b66d40179a8bf6cb";
 string result = "";
 
 int relayPin = 5;
